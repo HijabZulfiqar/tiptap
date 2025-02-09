@@ -41,7 +41,3 @@ npm run dev
 - **Unordered List**: `Ctrl + Shift + 8`
 - **Heading 1**: `Ctrl + Alt + 1`
 - **Heading 2**: `Ctrl + Alt + 2`
-
-## License
-
-This project is open-source and available under the MIT license.
